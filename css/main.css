@@ -147,3 +147,17 @@ footer {
     height:90px;
     width:100%;
   }
+
+/*Media Queries*/
+
+@media (min-width: 600px) {
+  .logo .li .orangeslices p {
+        width: 40%;
+      }
+     }
+
+@media (min-width: 1000px){
+      .logo .li .orangeslices {
+          width: 30%;
+      }
+}
